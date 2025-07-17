@@ -1,0 +1,7 @@
+.env
+*.log
+.DS_Store
+functions/*
+!functions/_shared/
+!functions/.gitkeep
+
